@@ -1,0 +1,8 @@
+fbb6cfa5fdfd655875e9fd598d2fc038 *DESCRIPTION
+51ead582eafb5bb8dbb588457369a5ff *NAMESPACE
+8bea75a6a4a3e8d8f9a0e4b133a51a43 *R/ABA_script.R
+44abf24d17914dbe99fbd327c85183de *man/count_events.Rd
+e40c32409f66bb033ea9dd64b15df249 *man/create_is_aba.Rd
+57fe62ca7aab87d667a61e6de71bcd4b *man/generate_codes.Rd
+58f659e2897052a4b8b59df31f1aaac1 *man/generate_length_aba.Rd
+1c5bed1ad7c335a1277463443b1c0f87 *man/generate_sequences.Rd
